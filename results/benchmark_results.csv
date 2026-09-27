@@ -1,301 +1,301 @@
 timestamp_utc,dataset_size,condition,dataset_file,algorithm,sorting_key,run,status,execution_time_sec,comparisons,swaps,moves,peak_memory_mb,verified,timeout_sec,error
-2026-09-26T19:34:58.842225+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,Student_ID,1,COMPLETED,3.146311999997124,499310,252522,757566,0.000827789306640625,True,10.0,
-2026-09-26T19:35:00.207239+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,Student_ID,1,COMPLETED,1.0924575999379158,499500,994,2982,0.000858306884765625,True,10.0,
-2026-09-26T19:35:02.193098+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,Student_ID,1,COMPLETED,1.6637021000497043,253516,0,253521,0.00069427490234375,True,10.0,
-2026-09-26T19:35:02.550749+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,Student_ID,1,COMPLETED,0.09144670004025102,8729,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:02.818459+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,Student_ID,1,COMPLETED,0.0431379999499768,15617,2298,6894,0.00203704833984375,True,10.0,
-2026-09-26T19:35:04.704646+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,CGPA,1,COMPLETED,1.704224299872294,498797,249633,748899,0.000827789306640625,True,10.0,
-2026-09-26T19:35:05.834410+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,CGPA,1,COMPLETED,0.9455012998078018,499500,993,2979,0.000858306884765625,True,10.0,
-2026-09-26T19:35:06.978677+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,CGPA,1,COMPLETED,0.9762983000837266,250626,0,250632,0.00069427490234375,True,10.0,
-2026-09-26T19:35:07.229488+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,CGPA,1,COMPLETED,0.07847800012677908,8699,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:07.434339+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,CGPA,1,COMPLETED,0.03265720000490546,14680,2484,7452,0.00200653076171875,True,10.0,
-2026-09-26T19:35:09.306087+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,Marks,1,COMPLETED,1.6981838999781758,497420,245345,736035,0.000827789306640625,True,10.0,
-2026-09-26T19:35:10.532218+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,Marks,1,COMPLETED,1.0416694001760334,499500,983,2949,0.000858306884765625,True,10.0,
-2026-09-26T19:35:11.672063+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,Marks,1,COMPLETED,0.9649646999314427,246340,0,246344,0.00069427490234375,True,10.0,
-2026-09-26T19:35:11.927638+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,Marks,1,COMPLETED,0.07665930013172328,8690,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:12.170159+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,Marks,1,COMPLETED,0.030938500072807074,13334,3112,9336,0.00206756591796875,True,10.0,
-2026-09-26T19:35:12.369619+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.005605499958619475,999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T19:35:13.628812+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,Student_ID,1,COMPLETED,1.0516182999126613,499500,0,0,0.000797271728515625,True,10.0,
-2026-09-26T19:35:13.798300+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.0035764998756349087,999,0,999,0.00069427490234375,True,10.0,
-2026-09-26T19:35:14.043851+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,Student_ID,1,COMPLETED,0.07542080013081431,5044,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:14.241224+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,Student_ID,1,COMPLETED,0.024050500011071563,10975,0,0,0.00209808349609375,True,10.0,
-2026-09-26T19:35:16.454379+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,CGPA,1,COMPLETED,2.0322426999919116,498510,257394,772182,0.000827789306640625,True,10.0,
-2026-09-26T19:35:18.028676+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,CGPA,1,COMPLETED,1.326642599888146,499500,993,2979,0.000858306884765625,True,10.0,
-2026-09-26T19:35:19.244424+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,CGPA,1,COMPLETED,1.0340231000445783,258389,0,258393,0.00069427490234375,True,10.0,
-2026-09-26T19:35:19.500279+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,CGPA,1,COMPLETED,0.08269890001975,8737,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:19.711648+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,CGPA,1,COMPLETED,0.03901680000126362,14121,2498,7494,0.00197601318359375,True,10.0,
-2026-09-26T19:35:21.660013+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,Marks,1,COMPLETED,1.77520880009979,496340,243280,729840,0.000827789306640625,True,10.0,
-2026-09-26T19:35:22.764433+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,Marks,1,COMPLETED,0.9259722998831421,499500,984,2952,0.000858306884765625,True,10.0,
-2026-09-26T19:35:23.948788+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,Marks,1,COMPLETED,1.0074742999859154,244273,0,244279,0.00069427490234375,True,10.0,
-2026-09-26T19:35:24.212423+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,Marks,1,COMPLETED,0.07539099990390241,8708,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:24.415195+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,Marks,1,COMPLETED,0.0404878999106586,14322,3076,9228,0.00200653076171875,True,10.0,
-2026-09-26T19:35:26.786749+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,Student_ID,1,COMPLETED,2.2066958998329937,499500,499500,1498500,0.000827789306640625,True,10.0,
-2026-09-26T19:35:27.912915+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,Student_ID,1,COMPLETED,0.9485939000733197,499500,500,1500,0.000858306884765625,True,10.0,
-2026-09-26T19:35:30.016815+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,Student_ID,1,COMPLETED,1.9201240001711994,499500,0,500499,0.00069427490234375,True,10.0,
-2026-09-26T19:35:30.521690+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,0.2248927999753505,4932,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:30.977883+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.04890669998712838,10976,500,1500,0.00215911865234375,True,10.0,
-2026-09-26T19:35:33.267019+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,CGPA,1,COMPLETED,1.9828995999414474,498834,241600,724800,0.000827789306640625,True,10.0,
-2026-09-26T19:35:34.514563+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,CGPA,1,COMPLETED,1.0508760998491198,499500,992,2976,0.000858306884765625,True,10.0,
-2026-09-26T19:35:35.868407+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,CGPA,1,COMPLETED,1.178909300127998,242592,0,242599,0.00069427490234375,True,10.0,
-2026-09-26T19:35:36.149657+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,0.0802827998995781,8744,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:36.417412+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,0.06511470000259578,15154,2493,7479,0.00197601318359375,True,10.0,
-2026-09-26T19:35:39.919375+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,Marks,1,COMPLETED,3.249462899984792,498225,251316,753948,0.000827789306640625,True,10.0,
-2026-09-26T19:35:41.190021+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,Marks,1,COMPLETED,1.0382240999024361,499500,981,2943,0.000858306884765625,True,10.0,
-2026-09-26T19:35:42.357662+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,Marks,1,COMPLETED,0.9856461999006569,252310,0,252315,0.00069427490234375,True,10.0,
-2026-09-26T19:35:42.638186+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,Marks,1,COMPLETED,0.08069819980300963,8700,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:42.888871+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,Marks,1,COMPLETED,0.03985369997099042,13408,3123,9369,0.00203704833984375,True,10.0,
-2026-09-26T19:35:44.355203+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,Student_ID,1,COMPLETED,1.2725219000130892,483390,14639,43917,0.000827789306640625,True,10.0,
-2026-09-26T19:35:46.152970+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,Student_ID,1,COMPLETED,1.5804382001515478,499500,25,75,0.000797271728515625,True,10.0,
-2026-09-26T19:35:46.558457+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,Student_ID,1,COMPLETED,0.1129406001418829,15638,0,15638,0.00069427490234375,True,10.0,
-2026-09-26T19:35:47.003688+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,0.1372652999125421,7126,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:47.381173+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.04395019984804094,11001,81,243,0.00209808349609375,True,10.0,
-2026-09-26T19:35:49.761235+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,CGPA,1,COMPLETED,2.109976400155574,498510,256667,770001,0.000827789306640625,True,10.0,
-2026-09-26T19:35:51.814636+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,CGPA,1,COMPLETED,1.8216788999270648,499500,996,2988,0.000858306884765625,True,10.0,
-2026-09-26T19:35:53.631589+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,CGPA,1,COMPLETED,1.5645695000421256,257662,0,257666,0.00069427490234375,True,10.0,
-2026-09-26T19:35:53.971068+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,0.08915709983557463,8731,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:54.244238+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,0.04067119979299605,14018,2507,7521,0.00197601318359375,True,10.0,
-2026-09-26T19:35:56.284311+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,Marks,1,COMPLETED,1.8347428999841213,496340,242925,728775,0.000827789306640625,True,10.0,
-2026-09-26T19:35:57.665281+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,Marks,1,COMPLETED,1.1800681001041085,499500,983,2949,0.000858306884765625,True,10.0,
-2026-09-26T19:35:59.138382+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,Marks,1,COMPLETED,1.256089000031352,243918,0,243924,0.00069427490234375,True,10.0,
-2026-09-26T19:35:59.491329+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,Marks,1,COMPLETED,0.09461020003072917,8709,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:35:59.779369+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,Marks,1,COMPLETED,0.04654160002246499,13910,3072,9216,0.00197601318359375,True,10.0,
-2026-09-26T19:35:59.995171+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.0029227999038994312,999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T19:36:01.359257+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,Student_ID,1,COMPLETED,1.1077632000669837,499500,0,0,0.000797271728515625,True,10.0,
-2026-09-26T19:36:01.573399+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.004929000046104193,999,0,999,0.00069427490234375,True,10.0,
-2026-09-26T19:36:01.874259+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,0.08974379999563098,5044,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:36:02.097058+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.024946500081568956,10975,0,0,0.00209808349609375,True,10.0,
-2026-09-26T19:36:03.900035+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,CGPA,1,COMPLETED,1.6139696999453008,481922,204685,614055,0.000827789306640625,True,10.0,
-2026-09-26T19:36:05.086061+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,CGPA,1,COMPLETED,1.009925700025633,499500,810,2430,0.000858306884765625,True,10.0,
-2026-09-26T19:36:06.207029+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,CGPA,1,COMPLETED,0.915806399891153,205683,0,205684,0.00069427490234375,True,10.0,
-2026-09-26T19:36:06.498514+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,0.08750810008496046,8245,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:36:06.716416+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,0.03437749994918704,11905,4251,12753,0.00206756591796875,True,10.0,
-2026-09-26T19:36:08.532093+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,Marks,1,COMPLETED,1.6439183000475168,475190,204432,613296,0.000827789306640625,True,10.0,
-2026-09-26T19:36:09.718586+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,Marks,1,COMPLETED,0.9999059000983834,499500,799,2397,0.000858306884765625,True,10.0,
-2026-09-26T19:36:10.772435+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,Marks,1,COMPLETED,0.875472699990496,205429,0,205431,0.00069427490234375,True,10.0,
-2026-09-26T19:36:11.026269+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,0.07274960004724562,8191,0,19952,0.009540557861328125,True,10.0,
-2026-09-26T19:36:11.252695+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,0.04264830006286502,11903,4253,12759,0.00209808349609375,True,10.0,
-2026-09-26T19:36:21.275903+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:36:31.344485+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:36:41.449008+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:36:42.977933+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,Student_ID,1,COMPLETED,1.2456817000638694,120449,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:36:43.880441+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,Student_ID,1,COMPLETED,0.6276204001624137,193671,30487,91461,0.00228118896484375,True,10.0,
-2026-09-26T19:36:53.900875+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:03.914860+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:13.949385+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:15.582098+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,CGPA,1,COMPLETED,1.3581636999733746,120469,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:37:16.684033+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,CGPA,1,COMPLETED,0.7791236001066864,179856,38885,116655,0.00231170654296875,True,10.0,
-2026-09-26T19:37:26.712180+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:36.719570+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:46.742997+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:48.321317+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,Marks,1,COMPLETED,1.3639543000608683,120353,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:37:49.046857+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,Marks,1,COMPLETED,0.5130635001696646,185002,46795,140385,0.00231170654296875,True,10.0,
-2026-09-26T19:37:49.298741+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.036228900076821446,9999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T19:37:59.317769+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:37:59.597383+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.05426949984394014,9999,0,9999,0.00069427490234375,True,10.0,
-2026-09-26T19:38:01.397556+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,Student_ID,1,COMPLETED,1.584402299951762,69008,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:38:01.935714+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,Student_ID,1,COMPLETED,0.33625610009767115,143615,0,0,0.00255584716796875,True,10.0,
-2026-09-26T19:38:11.957454+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:38:21.976193+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:38:31.990354+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:38:33.381574+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,CGPA,1,COMPLETED,1.1744033000431955,120559,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:38:34.311861+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,CGPA,1,COMPLETED,0.6455010001081973,187550,38622,115866,0.00231170654296875,True,10.0,
-2026-09-26T19:38:44.353808+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:38:54.443722+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:04.485640+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:05.834841+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,Marks,1,COMPLETED,1.129537499975413,120363,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:39:06.485111+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,Marks,1,COMPLETED,0.4602069000247866,168260,47025,141075,0.00234222412109375,True,10.0,
-2026-09-26T19:39:16.500139+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:26.530702+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:36.550380+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:38.577462+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,1.8102142999414355,64608,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:39:39.070750+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.30018140003085136,143616,5000,15000,0.00261688232421875,True,10.0,
-2026-09-26T19:39:49.085842+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:39:59.100892+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:40:09.130565+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:40:10.451151+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,1.1189240000676364,120422,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:40:11.170650+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,0.4836694998666644,182399,38684,116052,0.00231170654296875,True,10.0,
-2026-09-26T19:40:21.193769+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:40:31.209360+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:40:41.233617+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:40:42.863570+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,Marks,1,COMPLETED,1.4165443000383675,120391,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:40:43.528964+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,Marks,1,COMPLETED,0.46737680002115667,169899,47227,141681,0.00234222412109375,True,10.0,
-2026-09-26T19:40:53.550293+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:41:03.572171+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:41:13.446695+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,Student_ID,1,COMPLETED,9.66675309999846,1827899,0,1827899,0.00069427490234375,True,10.0,
-2026-09-26T19:41:15.179411+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,1.4762846999801695,106656,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:41:16.255357+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.8673025001771748,146813,1080,3240,0.00261688232421875,True,10.0,
-2026-09-26T19:41:26.267169+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:41:36.295518+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:41:46.315378+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:41:47.883315+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,1.340854600071907,120555,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:41:48.965159+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,0.7750428998842835,194445,38584,115752,0.00228118896484375,True,10.0,
-2026-09-26T19:41:58.990368+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:42:09.034854+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:42:19.064434+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:42:20.402853+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,Marks,1,COMPLETED,1.1113080000504851,120379,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:42:21.082005+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,Marks,1,COMPLETED,0.4788176000583917,179585,46713,140139,0.00234222412109375,True,10.0,
-2026-09-26T19:42:21.308817+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.03381019993685186,9999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T19:42:31.327557+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:42:31.582880+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.05460229981690645,9999,0,9999,0.00069427490234375,True,10.0,
-2026-09-26T19:42:32.777504+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,1.0062769998330623,69008,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:42:33.272763+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.30596460006199777,143615,0,0,0.00255584716796875,True,10.0,
-2026-09-26T19:42:43.287354+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:42:53.305514+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:03.319689+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:04.534263+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,1.0155434999614954,111849,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:43:05.152611+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,0.42559780017472804,153307,58772,176316,0.00249481201171875,True,10.0,
-2026-09-26T19:43:15.162768+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:25.179805+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:35.185550+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:36.356771+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,0.9721949999220669,111919,0,267232,0.07841873168945312,True,10.0,
-2026-09-26T19:43:36.966599+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,0.42226889985613525,151676,58772,176316,0.00246429443359375,True,10.0,
-2026-09-26T19:43:46.992845+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:43:57.008419+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:44:07.010932+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:44:13.199164+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,Student_ID,1,COMPLETED,5.817592999897897,718095,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:44:16.328530+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,Student_ID,1,COMPLETED,2.7580478000454605,1102029,181838,545514,0.00275421142578125,True,10.0,
-2026-09-26T19:44:26.344220+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:44:36.366969+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:44:46.386819+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:44:53.350255+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,CGPA,1,COMPLETED,6.586560000199825,718120,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:44:56.261389+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,CGPA,1,COMPLETED,2.522837799973786,1031996,250543,751629,0.00284576416015625,True,10.0,
-2026-09-26T19:45:06.269890+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:45:16.284275+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:45:26.299631+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:45:32.565322+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,Marks,1,COMPLETED,5.894077100092545,716742,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:45:35.695432+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,Marks,1,COMPLETED,2.7609338997863233,977646,292407,877221,0.00284576416015625,True,10.0,
-2026-09-26T19:45:36.193604+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.1484846998937428,49999,0,0,0.000774383544921875,True,10.0,
-2026-09-26T19:45:46.210192+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:45:46.821708+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.26390499994158745,49999,0,49999,0.0007476806640625,True,10.0,
-2026-09-26T19:45:53.216094+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,Student_ID,1,COMPLETED,6.056335699977353,401952,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:45:55.252210+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,Student_ID,1,COMPLETED,1.688671699957922,834463,0,0,0.00308990478515625,True,10.0,
-2026-09-26T19:46:05.275316+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:46:15.300766+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:46:25.319601+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:46:33.273975+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,CGPA,1,COMPLETED,7.445980499964207,718115,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:46:38.670713+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,CGPA,1,COMPLETED,4.779654799960554,1067700,248961,746883,0.00281524658203125,True,10.0,
-2026-09-26T19:46:48.683026+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:46:58.703633+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:47:08.732953+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:47:17.975798+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,Marks,1,COMPLETED,8.694836900103837,716810,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:47:22.026475+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,Marks,1,COMPLETED,3.444494399940595,991252,292104,876312,0.00281524658203125,True,10.0,
-2026-09-26T19:47:32.043001+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:47:42.042883+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:47:52.059613+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:47:58.611702+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,6.1499940999783576,382512,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:48:00.877528+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,1.8935108000878245,834464,25000,75000,0.00315093994140625,True,10.0,
-2026-09-26T19:48:10.898265+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:48:20.910243+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:48:30.936386+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:48:37.582093+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,6.228964200010523,718303,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:48:40.781085+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,2.791920900112018,1033613,250155,750465,0.00281524658203125,True,10.0,
-2026-09-26T19:48:50.802006+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:00.831889+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:10.843431+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:20.356354+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,Marks,1,COMPLETED,9.027249800041318,716728,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:49:23.456402+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,Marks,1,COMPLETED,2.6853114999830723,957370,294342,883026,0.00290679931640625,True,10.0,
-2026-09-26T19:49:33.482677+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:43.499166+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:53.512576+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:49:59.948734+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,6.057196300011128,652416,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:50:02.159130+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,1.782848099945113,839174,6968,20904,0.00312042236328125,True,10.0,
-2026-09-26T19:50:12.186091+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:50:22.203083+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:50:32.216586+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:50:38.748491+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,6.1153702000156045,718053,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:50:41.819953+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,2.6844389999751,1066930,249036,747108,0.00275421142578125,True,10.0,
-2026-09-26T19:50:51.845370+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:51:01.860069+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:51:11.876233+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:51:19.517386+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,Marks,1,COMPLETED,7.237955000018701,716702,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:51:22.842243+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,Marks,1,COMPLETED,2.9303284999914467,971866,292142,876426,0.00281524658203125,True,10.0,
-2026-09-26T19:51:23.368587+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.15779579989612103,49999,0,0,0.000774383544921875,True,10.0,
-2026-09-26T19:51:33.384787+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:51:33.996792+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.2480953000485897,49999,0,49999,0.0007476806640625,True,10.0,
-2026-09-26T19:51:40.524913+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,6.151324899867177,401952,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:51:42.657017+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,1.7665348998270929,834463,0,0,0.00308990478515625,True,10.0,
-2026-09-26T19:51:52.681912+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:02.702702+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:12.728764+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:19.997719+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,6.88702949997969,665488,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:52:23.022568+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,2.591997600160539,884037,351925,1055775,0.00299835205078125,True,10.0,
-2026-09-26T19:52:33.039042+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:43.062994+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:53.079540+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:52:59.593559+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,6.11403249995783,665493,0,1568928,0.3841056823730469,True,10.0,
-2026-09-26T19:53:02.539932+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,2.5592467000242323,885144,352335,1057005,0.00302886962890625,True,10.0,
-2026-09-26T19:53:12.573060+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:53:22.587780+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:53:32.607076+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:53:42.636448+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:53:48.724690+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,Student_ID,1,COMPLETED,5.459607400000095,2282298,388253,1164759,0.00270843505859375,True,10.0,
-2026-09-26T19:53:58.759085+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:54:08.779237+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:54:18.801614+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:54:28.821793+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:54:34.784209+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,CGPA,1,COMPLETED,5.3401875998824835,2057582,552107,1656321,0.00276947021484375,True,10.0,
-2026-09-26T19:54:44.805864+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:54:54.820863+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:55:04.842890+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:55:14.863851+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:55:21.794572+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,Marks,1,COMPLETED,6.309832900064066,2054192,635682,1907046,0.00289154052734375,True,10.0,
-2026-09-26T19:55:22.674602+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.31690109986811876,99999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T19:55:32.702105+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:55:33.767449+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.5095202999655157,99999,0,99999,0.00069427490234375,True,10.0,
-2026-09-26T19:55:43.783858+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:55:47.971428+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,Student_ID,1,COMPLETED,3.6278679000679404,1768927,0,0,0.00310516357421875,True,10.0,
-2026-09-26T19:55:57.999948+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:56:08.018046+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:56:18.048205+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:56:28.068555+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:56:34.915105+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,CGPA,1,COMPLETED,6.148925599874929,2284601,545913,1637739,0.00286102294921875,True,10.0,
-2026-09-26T19:56:44.913183+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:56:54.934985+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:57:04.961998+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:57:14.995472+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:57:21.516734+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,Marks,1,COMPLETED,5.893131900113076,2005355,637582,1912746,0.00286102294921875,True,10.0,
-2026-09-26T19:57:31.547077+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:57:41.615003+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:57:51.651919+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:01.678859+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:06.088712+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,3.851743600098416,1768928,50000,150000,0.00316619873046875,True,10.0,
-2026-09-26T19:58:16.112579+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:26.134413+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:36.156216+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:46.180926+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:58:52.677280+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,5.8498362000100315,2080388,551978,1655934,0.00273895263671875,True,10.0,
-2026-09-26T19:59:02.699094+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:59:12.710090+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:59:22.717533+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:59:32.733132+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:59:38.752544+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,Marks,1,COMPLETED,5.400381500134245,1972975,638916,1916748,0.00283050537109375,True,10.0,
-2026-09-26T19:59:48.779013+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T19:59:58.805649+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:00:08.826266+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:00:18.850434+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:00:23.438626+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,4.032605799846351,1778923,15008,45024,0.00316619873046875,True,10.0,
-2026-09-26T20:00:33.460294+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:00:43.490352+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:00:53.518119+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:03.574120+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:12.203079+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,7.818412000080571,2246618,544732,1634196,0.00276947021484375,True,10.0,
-2026-09-26T20:01:22.217380+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:32.249790+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:42.268366+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:52.281604+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:01:58.195080+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,Marks,1,COMPLETED,5.241254100110382,1963143,639534,1918602,0.00289154052734375,True,10.0,
-2026-09-26T20:01:59.012014+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.29476810013875365,99999,0,0,0.000720977783203125,True,10.0,
-2026-09-26T20:02:09.025435+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:02:10.046265+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.49405000009573996,99999,0,99999,0.00069427490234375,True,10.0,
-2026-09-26T20:02:20.062758+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:02:24.130032+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,3.520631300052628,1768927,0,0,0.00310516357421875,True,10.0,
-2026-09-26T20:02:34.162718+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:02:44.176310+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:02:54.196446+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:04.211137+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:09.776839+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,5.009859499987215,1862125,753821,2261463,0.00301361083984375,True,10.0,
-2026-09-26T20:03:19.798902+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:29.816963+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:39.833967+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:49.850817+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
-2026-09-26T20:03:56.783760+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,6.346712600206956,1904966,751953,2255859,0.00304412841796875,True,10.0,
+2026-09-27T06:29:59.581918+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,Student_ID,1,COMPLETED,0.27747010000166483,499310,252522,757566,0.0007781982421875,True,10.0,
+2026-09-27T06:29:59.823939+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,Student_ID,1,COMPLETED,0.16581790000782348,499500,994,2982,0.0007781982421875,True,10.0,
+2026-09-27T06:30:00.043129+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,Student_ID,1,COMPLETED,0.14184349999413826,253516,0,253521,0.0006561279296875,True,10.0,
+2026-09-27T06:30:00.135959+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,Student_ID,1,COMPLETED,0.014301600007456727,8729,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:00.219505+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,Student_ID,1,COMPLETED,0.006600900000194088,15617,2298,6894,0.002410888671875,True,10.0,
+2026-09-27T06:30:00.575502+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,CGPA,1,COMPLETED,0.2824508000048809,498797,249633,748899,0.0007781982421875,True,10.0,
+2026-09-27T06:30:00.822605+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,CGPA,1,COMPLETED,0.17307419999269769,499500,993,2979,0.0007781982421875,True,10.0,
+2026-09-27T06:30:01.041560+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,CGPA,1,COMPLETED,0.1428787999902852,250626,0,250632,0.0006561279296875,True,10.0,
+2026-09-27T06:30:01.131659+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,CGPA,1,COMPLETED,0.014560900002834387,8699,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:01.211049+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,CGPA,1,COMPLETED,0.006748400002834387,14680,2484,7452,0.00238037109375,True,10.0,
+2026-09-27T06:30:01.561937+00:00,1000,random,data\generated\random\students_1000_random.csv,bubble,Marks,1,COMPLETED,0.2763851999916369,497420,245345,736035,0.0007781982421875,True,10.0,
+2026-09-27T06:30:01.798353+00:00,1000,random,data\generated\random\students_1000_random.csv,selection,Marks,1,COMPLETED,0.1620320000074571,499500,983,2949,0.0007781982421875,True,10.0,
+2026-09-27T06:30:02.006259+00:00,1000,random,data\generated\random\students_1000_random.csv,insertion,Marks,1,COMPLETED,0.13794050000433344,246340,0,246344,0.0006561279296875,True,10.0,
+2026-09-27T06:30:02.093232+00:00,1000,random,data\generated\random\students_1000_random.csv,merge,Marks,1,COMPLETED,0.014493399998173118,8690,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:02.172808+00:00,1000,random,data\generated\random\students_1000_random.csv,quick,Marks,1,COMPLETED,0.006032100005540997,13334,3112,9336,0.00244140625,True,10.0,
+2026-09-27T06:30:02.249916+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.0004734999965876341,999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:30:02.488423+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,Student_ID,1,COMPLETED,0.16618649999145418,499500,0,0,0.0007171630859375,True,10.0,
+2026-09-27T06:30:02.562434+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.0007097999914549291,999,0,999,0.0006561279296875,True,10.0,
+2026-09-27T06:30:02.657549+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,Student_ID,1,COMPLETED,0.014401200009160675,5044,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:02.741038+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,Student_ID,1,COMPLETED,0.004477300011785701,10975,0,0,0.002471923828125,True,10.0,
+2026-09-27T06:30:03.091943+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,CGPA,1,COMPLETED,0.28022109999437816,498510,257394,772182,0.0007781982421875,True,10.0,
+2026-09-27T06:30:03.328219+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,CGPA,1,COMPLETED,0.16535080000176094,499500,993,2979,0.0007781982421875,True,10.0,
+2026-09-27T06:30:03.543284+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,CGPA,1,COMPLETED,0.14302760000282433,258389,0,258393,0.0006561279296875,True,10.0,
+2026-09-27T06:30:03.628469+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,CGPA,1,COMPLETED,0.013928400003351271,8737,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:03.708369+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,CGPA,1,COMPLETED,0.006521500006783754,14121,2498,7494,0.002349853515625,True,10.0,
+2026-09-27T06:30:04.077310+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,bubble,Marks,1,COMPLETED,0.29085349998786114,496340,243280,729840,0.0007781982421875,True,10.0,
+2026-09-27T06:30:04.327507+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,selection,Marks,1,COMPLETED,0.17134850000729784,499500,984,2952,0.0007781982421875,True,10.0,
+2026-09-27T06:30:04.546808+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,insertion,Marks,1,COMPLETED,0.1395150000025751,244273,0,244279,0.0006561279296875,True,10.0,
+2026-09-27T06:30:04.637876+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,merge,Marks,1,COMPLETED,0.01482419999956619,8708,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:04.723306+00:00,1000,sorted,data\generated\sorted\students_1000_sorted.csv,quick,Marks,1,COMPLETED,0.0062498999905074015,14322,3076,9228,0.00238037109375,True,10.0,
+2026-09-27T06:30:05.184317+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,Student_ID,1,COMPLETED,0.38303120000637136,499500,499500,1498500,0.0007781982421875,True,10.0,
+2026-09-27T06:30:05.428892+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,Student_ID,1,COMPLETED,0.16588380000030156,499500,500,1500,0.0007781982421875,True,10.0,
+2026-09-27T06:30:05.764003+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,Student_ID,1,COMPLETED,0.2579993999970611,499500,0,500499,0.0006561279296875,True,10.0,
+2026-09-27T06:30:05.849907+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,0.013751499995123595,4932,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:05.946264+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.0055893999960972,10976,500,1500,0.002532958984375,True,10.0,
+2026-09-27T06:30:06.292727+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,CGPA,1,COMPLETED,0.26657690000138246,498834,241600,724800,0.0007781982421875,True,10.0,
+2026-09-27T06:30:06.528940+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,CGPA,1,COMPLETED,0.15865829998801928,499500,992,2976,0.0007781982421875,True,10.0,
+2026-09-27T06:30:06.742411+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,CGPA,1,COMPLETED,0.13543359999312088,242592,0,242599,0.0006561279296875,True,10.0,
+2026-09-27T06:30:06.827993+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,0.013794700003927574,8744,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:06.905960+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,0.006830400001490489,15154,2493,7479,0.002349853515625,True,10.0,
+2026-09-27T06:30:07.258250+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,bubble,Marks,1,COMPLETED,0.28047669999068603,498225,251316,753948,0.0007781982421875,True,10.0,
+2026-09-27T06:30:07.493252+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,selection,Marks,1,COMPLETED,0.15977519999432843,499500,981,2943,0.0007781982421875,True,10.0,
+2026-09-27T06:30:07.706804+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,insertion,Marks,1,COMPLETED,0.14064009999856353,252310,0,252315,0.0006561279296875,True,10.0,
+2026-09-27T06:30:07.791200+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,merge,Marks,1,COMPLETED,0.01458779998938553,8700,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:07.869224+00:00,1000,reverse_sorted,data\generated\reverse_sorted\students_1000_reverse_sorted.csv,quick,Marks,1,COMPLETED,0.005815999989863485,13408,3123,9369,0.002410888671875,True,10.0,
+2026-09-27T06:30:08.123275+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,Student_ID,1,COMPLETED,0.1763963999983389,483390,14639,43917,0.0007781982421875,True,10.0,
+2026-09-27T06:30:08.355445+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,Student_ID,1,COMPLETED,0.15865219999977853,499500,25,75,0.0007171630859375,True,10.0,
+2026-09-27T06:30:08.439270+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,Student_ID,1,COMPLETED,0.009051500004716218,15638,0,15638,0.0006561279296875,True,10.0,
+2026-09-27T06:30:08.527222+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,0.013788099997327663,7126,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:08.605084+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.004392400005599484,11001,81,243,0.002471923828125,True,10.0,
+2026-09-27T06:30:08.952448+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,CGPA,1,COMPLETED,0.2693221999943489,498510,256667,770001,0.0007781982421875,True,10.0,
+2026-09-27T06:30:09.182314+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,CGPA,1,COMPLETED,0.15572769999562297,499500,996,2988,0.0007781982421875,True,10.0,
+2026-09-27T06:30:09.400397+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,CGPA,1,COMPLETED,0.1429229000059422,257662,0,257666,0.0006561279296875,True,10.0,
+2026-09-27T06:30:09.486645+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,0.013987700003781356,8731,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:09.565448+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,0.005953600004431792,14018,2507,7521,0.002349853515625,True,10.0,
+2026-09-27T06:30:09.906776+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,bubble,Marks,1,COMPLETED,0.2672887999942759,496340,242925,728775,0.0007781982421875,True,10.0,
+2026-09-27T06:30:10.138987+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,selection,Marks,1,COMPLETED,0.15791080000053626,499500,983,2949,0.0007781982421875,True,10.0,
+2026-09-27T06:30:10.351725+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,insertion,Marks,1,COMPLETED,0.1356718000024557,243918,0,243924,0.0006561279296875,True,10.0,
+2026-09-27T06:30:10.440782+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,merge,Marks,1,COMPLETED,0.013857500001904555,8709,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:10.525193+00:00,1000,nearly_sorted,data\generated\nearly_sorted\students_1000_nearly_sorted.csv,quick,Marks,1,COMPLETED,0.0061775000067427754,13910,3072,9216,0.002349853515625,True,10.0,
+2026-09-27T06:30:10.597396+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.00046370000927709043,999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:30:10.829207+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,Student_ID,1,COMPLETED,0.15961160000006203,499500,0,0,0.0007171630859375,True,10.0,
+2026-09-27T06:30:10.903825+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.0006897999992361292,999,0,999,0.0006561279296875,True,10.0,
+2026-09-27T06:30:11.013105+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,0.013915499992435798,5044,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:11.106212+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.004745400001411326,10975,0,0,0.002471923828125,True,10.0,
+2026-09-27T06:30:11.431735+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,CGPA,1,COMPLETED,0.24996859999373555,481922,204685,614055,0.0007781982421875,True,10.0,
+2026-09-27T06:30:11.659344+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,CGPA,1,COMPLETED,0.15597469999920577,499500,810,2430,0.0007781982421875,True,10.0,
+2026-09-27T06:30:11.846893+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,CGPA,1,COMPLETED,0.11575729999458417,205683,0,205684,0.0006561279296875,True,10.0,
+2026-09-27T06:30:11.933559+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,0.014066699994145893,8245,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:12.011993+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,0.005892400004086085,11905,4251,12753,0.00244140625,True,10.0,
+2026-09-27T06:30:12.334506+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,bubble,Marks,1,COMPLETED,0.24938620001194067,475190,204432,613296,0.0007781982421875,True,10.0,
+2026-09-27T06:30:12.564734+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,selection,Marks,1,COMPLETED,0.1581239000079222,499500,799,2397,0.0007781982421875,True,10.0,
+2026-09-27T06:30:12.753208+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,insertion,Marks,1,COMPLETED,0.11586119999992661,205429,0,205431,0.0006561279296875,True,10.0,
+2026-09-27T06:30:12.839470+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,0.013894000003347173,8191,0,19952,0.0098724365234375,True,10.0,
+2026-09-27T06:30:12.917153+00:00,1000,duplicate_heavy,data\generated\duplicate_heavy\students_1000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,0.005962000010185875,11903,4253,12759,0.002471923828125,True,10.0,
+2026-09-27T06:30:22.940054+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:30:32.951711+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:30:42.967540+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:30:43.288454+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,Student_ID,1,COMPLETED,0.21812299999874085,120449,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:30:43.471618+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,Student_ID,1,COMPLETED,0.08528959999966901,193671,30487,91461,0.002655029296875,True,10.0,
+2026-09-27T06:30:53.489274+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:03.508128+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:13.526851+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:13.851345+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,CGPA,1,COMPLETED,0.22054959999513812,120469,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:31:14.034546+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,CGPA,1,COMPLETED,0.08518779999576509,179856,38885,116655,0.002685546875,True,10.0,
+2026-09-27T06:31:24.055134+00:00,10000,random,data\generated\random\students_10000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:34.066724+00:00,10000,random,data\generated\random\students_10000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:44.091185+00:00,10000,random,data\generated\random\students_10000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:44.411518+00:00,10000,random,data\generated\random\students_10000_random.csv,merge,Marks,1,COMPLETED,0.21898489999875892,120353,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:31:44.595050+00:00,10000,random,data\generated\random\students_10000_random.csv,quick,Marks,1,COMPLETED,0.08714790000522044,185002,46795,140385,0.002685546875,True,10.0,
+2026-09-27T06:31:44.694446+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.0057201000017812476,9999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:31:54.715942+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:31:54.826689+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.009489500007475726,9999,0,9999,0.0006561279296875,True,10.0,
+2026-09-27T06:31:55.129812+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,Student_ID,1,COMPLETED,0.20353830000385642,69008,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:31:55.283882+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,Student_ID,1,COMPLETED,0.05918510000628885,143615,0,0,0.0029296875,True,10.0,
+2026-09-27T06:32:05.293280+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:15.312414+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:25.326308+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:25.643173+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,CGPA,1,COMPLETED,0.21515580000414047,120559,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:32:25.831669+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,CGPA,1,COMPLETED,0.08862159999262076,187550,38622,115866,0.002685546875,True,10.0,
+2026-09-27T06:32:35.852676+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:45.864891+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:55.874857+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:32:56.192877+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,merge,Marks,1,COMPLETED,0.21572700000251643,120363,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:32:56.372682+00:00,10000,sorted,data\generated\sorted\students_10000_sorted.csv,quick,Marks,1,COMPLETED,0.08345609999378212,168260,47025,141075,0.002716064453125,True,10.0,
+2026-09-27T06:33:06.392007+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:16.415479+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:26.433938+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:26.742654+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,0.20733710000058636,64608,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:33:26.897372+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.059080399994854815,143616,5000,15000,0.00299072265625,True,10.0,
+2026-09-27T06:33:36.918672+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:46.933575+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:56.943373+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:33:57.267913+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,0.2153392000036547,120422,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:33:57.453718+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,0.0851492999936454,182399,38684,116052,0.002685546875,True,10.0,
+2026-09-27T06:34:07.471341+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:34:17.489484+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:34:27.510350+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:34:27.823678+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,merge,Marks,1,COMPLETED,0.2115057000046363,120391,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:34:28.003250+00:00,10000,reverse_sorted,data\generated\reverse_sorted\students_10000_reverse_sorted.csv,quick,Marks,1,COMPLETED,0.0840055000007851,169899,47227,141681,0.002716064453125,True,10.0,
+2026-09-27T06:34:38.016349+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:34:48.028781+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:34:49.292145+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,Student_ID,1,COMPLETED,1.1616544999997132,1827899,0,1827899,0.0006561279296875,True,10.0,
+2026-09-27T06:34:49.609106+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,0.21434069999668282,106656,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:34:49.764147+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.06037300000025425,146813,1080,3240,0.00299072265625,True,10.0,
+2026-09-27T06:34:59.776007+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:09.791558+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:19.804035+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:20.122307+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,0.21677929999714252,120555,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:35:20.306478+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,0.08869819999381434,194445,38584,115752,0.002655029296875,True,10.0,
+2026-09-27T06:35:30.316330+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:40.333635+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:50.351453+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:35:50.671582+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,merge,Marks,1,COMPLETED,0.21540960000129417,120379,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:35:50.854570+00:00,10000,nearly_sorted,data\generated\nearly_sorted\students_10000_nearly_sorted.csv,quick,Marks,1,COMPLETED,0.08740990000660531,179585,46713,140139,0.002716064453125,True,10.0,
+2026-09-27T06:35:50.955243+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.005174999998416752,9999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:36:00.969256+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:36:01.079605+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.009192600002279505,9999,0,9999,0.0006561279296875,True,10.0,
+2026-09-27T06:36:01.384767+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,0.20446919999085367,69008,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:36:01.541463+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.0596957000088878,143615,0,0,0.0029296875,True,10.0,
+2026-09-27T06:36:11.556623+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:36:21.569094+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:36:31.576957+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:36:31.890777+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,0.21282859999337234,111849,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:36:32.091659+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,0.08338890000595711,153307,58772,176316,0.00286865234375,True,10.0,
+2026-09-27T06:36:42.112361+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:36:52.124533+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:02.135533+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:02.447525+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,0.21259599999757484,111919,0,267232,0.0787506103515625,True,10.0,
+2026-09-27T06:37:02.634576+00:00,10000,duplicate_heavy,data\generated\duplicate_heavy\students_10000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,0.08461340000212658,151676,58772,176316,0.002838134765625,True,10.0,
+2026-09-27T06:37:12.647826+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:22.671647+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:32.688067+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:34.261137+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,Student_ID,1,COMPLETED,1.3457545999990543,718095,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:37:35.024026+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,Student_ID,1,COMPLETED,0.536137899995083,1102029,181838,545514,0.00286865234375,True,10.0,
+2026-09-27T06:37:45.048869+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:37:55.067772+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:05.087387+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:06.678281+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,CGPA,1,COMPLETED,1.3735742999997456,718120,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:38:07.480753+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,CGPA,1,COMPLETED,0.569147600006545,1031996,250543,751629,0.002960205078125,True,10.0,
+2026-09-27T06:38:17.501122+00:00,50000,random,data\generated\random\students_50000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:27.512837+00:00,50000,random,data\generated\random\students_50000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:37.529886+00:00,50000,random,data\generated\random\students_50000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:39.058547+00:00,50000,random,data\generated\random\students_50000_random.csv,merge,Marks,1,COMPLETED,1.323439200001303,716742,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:38:39.822236+00:00,50000,random,data\generated\random\students_50000_random.csv,quick,Marks,1,COMPLETED,0.5347408999950858,977646,292407,877221,0.002960205078125,True,10.0,
+2026-09-27T06:38:40.036765+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.027436399992438965,49999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:38:50.061448+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:38:50.299726+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.0407895000098506,49999,0,49999,0.0006561279296875,True,10.0,
+2026-09-27T06:38:51.759409+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,Student_ID,1,COMPLETED,1.2691324999905191,401952,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:38:52.318850+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,Student_ID,1,COMPLETED,0.35181019999436103,834463,0,0,0.003204345703125,True,10.0,
+2026-09-27T06:39:02.334554+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:12.356597+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:22.380338+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:23.949877+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,CGPA,1,COMPLETED,1.3567173999908846,718115,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:39:24.776221+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,CGPA,1,COMPLETED,0.5736062000069069,1067700,248961,746883,0.0029296875,True,10.0,
+2026-09-27T06:39:34.793012+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:44.813605+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:54.834244+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:39:56.371164+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,merge,Marks,1,COMPLETED,1.3253033000073629,716810,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:39:57.142555+00:00,50000,sorted,data\generated\sorted\students_50000_sorted.csv,quick,Marks,1,COMPLETED,0.5413069000060204,991252,292104,876312,0.0029296875,True,10.0,
+2026-09-27T06:40:07.162122+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:40:17.175783+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:40:27.192666+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:40:28.644674+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,1.2469902000011643,382512,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:40:29.195464+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.3530503999936627,834464,25000,75000,0.003265380859375,True,10.0,
+2026-09-27T06:40:39.213574+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:40:49.232022+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:40:59.257952+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:41:00.838377+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,1.3590620000031777,718303,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:41:01.708750+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,0.6224990000046091,1033613,250155,750465,0.0029296875,True,10.0,
+2026-09-27T06:41:11.725143+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:41:21.751803+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:41:31.770993+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:41:33.297582+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,merge,Marks,1,COMPLETED,1.3185858999931952,716728,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:41:34.059274+00:00,50000,reverse_sorted,data\generated\reverse_sorted\students_50000_reverse_sorted.csv,quick,Marks,1,COMPLETED,0.5335133000044152,957370,294342,883026,0.003021240234375,True,10.0,
+2026-09-27T06:41:44.081871+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:41:54.101305+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:04.127815+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:05.615779+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,1.2853426999936346,652416,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:42:06.179070+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.35407909999776166,839174,6968,20904,0.00323486328125,True,10.0,
+2026-09-27T06:42:16.199903+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:26.219828+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:36.239196+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:37.791519+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,1.337733100008336,718053,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:42:38.610909+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,0.5746578999969643,1066930,249036,747108,0.00286865234375,True,10.0,
+2026-09-27T06:42:48.632212+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:42:58.654759+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:08.678986+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:10.238560+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,merge,Marks,1,COMPLETED,1.3483051999937743,716702,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:43:10.997307+00:00,50000,nearly_sorted,data\generated\nearly_sorted\students_50000_nearly_sorted.csv,quick,Marks,1,COMPLETED,0.5317361000052188,971866,292142,876426,0.0029296875,True,10.0,
+2026-09-27T06:43:11.211379+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.025768899999093264,49999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:43:21.231040+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:21.465708+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.04039029999694321,49999,0,49999,0.0006561279296875,True,10.0,
+2026-09-27T06:43:22.927957+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,1.2697360999882221,401952,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:43:23.483836+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.35074409999651834,834463,0,0,0.003204345703125,True,10.0,
+2026-09-27T06:43:33.503589+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:43.520761+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:53.543996+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:43:55.074130+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,1.3185053000051994,665488,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:43:55.858805+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,0.5522812999988673,884037,351925,1055775,0.00311279296875,True,10.0,
+2026-09-27T06:44:05.883626+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:44:15.903334+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:44:25.915030+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:44:27.455025+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,1.319432299991604,665493,0,1568928,0.3840789794921875,True,10.0,
+2026-09-27T06:44:28.194446+00:00,50000,duplicate_heavy,data\generated\duplicate_heavy\students_50000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,0.5191903999948408,885144,352335,1057005,0.003143310546875,True,10.0,
+2026-09-27T06:44:38.212222+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:44:48.234314+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:44:58.262040+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:45:01.463454+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,Student_ID,1,COMPLETED,2.833250499999849,1536316,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:45:03.078122+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,Student_ID,1,COMPLETED,1.2224855999957072,2282298,388253,1164759,0.0029296875,True,10.0,
+2026-09-27T06:45:13.104199+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:45:23.128327+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:45:33.146849+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:45:36.327633+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,CGPA,1,COMPLETED,2.8097533999971347,1536028,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:45:37.952484+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,CGPA,1,COMPLETED,1.2283777999982703,2057582,552107,1656321,0.00299072265625,True,10.0,
+2026-09-27T06:45:47.978902+00:00,100000,random,data\generated\random\students_100000_random.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:45:58.003438+00:00,100000,random,data\generated\random\students_100000_random.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:46:08.022421+00:00,100000,random,data\generated\random\students_100000_random.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:46:11.148802+00:00,100000,random,data\generated\random\students_100000_random.csv,merge,Marks,1,COMPLETED,2.773334800003795,1532742,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:46:12.741102+00:00,100000,random,data\generated\random\students_100000_random.csv,quick,Marks,1,COMPLETED,1.205626900002244,2054192,635682,1907046,0.00311279296875,True,10.0,
+2026-09-27T06:46:13.114927+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,Student_ID,1,COMPLETED,0.05417149999993853,99999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:46:23.135250+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:46:23.556354+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,Student_ID,1,COMPLETED,0.08038890000898391,99999,0,99999,0.0006561279296875,True,10.0,
+2026-09-27T06:46:26.538282+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,Student_ID,1,COMPLETED,2.6394947999942815,853904,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:46:27.656357+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,Student_ID,1,COMPLETED,0.7720952999952715,1768927,0,0,0.003326416015625,True,10.0,
+2026-09-27T06:46:37.681002+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:46:47.706064+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:46:57.725872+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:47:00.987064+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,CGPA,1,COMPLETED,2.879755200003274,1536371,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:47:02.703659+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,CGPA,1,COMPLETED,1.305437399991206,2284601,545913,1637739,0.003082275390625,True,10.0,
+2026-09-27T06:47:12.717657+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:47:22.737155+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:47:32.756298+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:47:35.921757+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,merge,Marks,1,COMPLETED,2.7905045000079554,1533000,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:47:37.501500+00:00,100000,sorted,data\generated\sorted\students_100000_sorted.csv,quick,Marks,1,COMPLETED,1.1877098999975715,2005355,637582,1912746,0.003082275390625,True,10.0,
+2026-09-27T06:47:47.517841+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:47:57.532684+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:48:07.556234+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:48:10.526223+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,Student_ID,1,COMPLETED,2.632580900011817,815024,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:48:11.637127+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,Student_ID,1,COMPLETED,0.7720135999988997,1768928,50000,150000,0.003387451171875,True,10.0,
+2026-09-27T06:48:21.663631+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:48:31.686058+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:48:41.702442+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:48:44.880229+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,CGPA,1,COMPLETED,2.8173735000018496,1536490,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:48:46.473599+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,CGPA,1,COMPLETED,1.2007504999928642,2080388,551978,1655934,0.002960205078125,True,10.0,
+2026-09-27T06:48:56.490650+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:06.510934+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:16.537017+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:19.612842+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,merge,Marks,1,COMPLETED,2.7324791999999434,1532903,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:49:21.153908+00:00,100000,reverse_sorted,data\generated\reverse_sorted\students_100000_reverse_sorted.csv,quick,Marks,1,COMPLETED,1.156894600004307,1972975,638916,1916748,0.0030517578125,True,10.0,
+2026-09-27T06:49:31.176867+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:41.200020+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:51.218100+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:49:54.232117+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,Student_ID,1,COMPLETED,2.6771663000108674,1408983,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:49:55.346278+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,Student_ID,1,COMPLETED,0.7681290000036824,1778923,15008,45024,0.003387451171875,True,10.0,
+2026-09-27T06:50:05.362805+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:50:15.391598+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:50:25.415362+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:50:28.528322+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,CGPA,1,COMPLETED,2.762752199996612,1536374,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:50:30.120140+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,CGPA,1,COMPLETED,1.223041999997804,2246618,544732,1634196,0.00299072265625,True,10.0,
+2026-09-27T06:50:40.137621+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:50:50.155166+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:00.174209+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:03.267195+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,merge,Marks,1,COMPLETED,2.7412278999981936,1533025,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:51:04.787702+00:00,100000,nearly_sorted,data\generated\nearly_sorted\students_100000_nearly_sorted.csv,quick,Marks,1,COMPLETED,1.1445853000041097,1963143,639534,1918602,0.00311279296875,True,10.0,
+2026-09-27T06:51:05.165097+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,Student_ID,1,COMPLETED,0.055651799993938766,99999,0,0,0.0006866455078125,True,10.0,
+2026-09-27T06:51:15.185351+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,Student_ID,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:15.582249+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,Student_ID,1,COMPLETED,0.08124840000527911,99999,0,99999,0.0006561279296875,True,10.0,
+2026-09-27T06:51:18.497904+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,Student_ID,1,COMPLETED,2.5955535999964923,853904,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:51:19.590507+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,Student_ID,1,COMPLETED,0.741053900012048,1768927,0,0,0.003326416015625,True,10.0,
+2026-09-27T06:51:29.612515+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:39.636811+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:49.652083+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,CGPA,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:51:52.726355+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,CGPA,1,COMPLETED,2.7261045000050217,1420567,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:51:54.281058+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,CGPA,1,COMPLETED,1.1743270000006305,1862125,753821,2261463,0.00323486328125,True,10.0,
+2026-09-27T06:52:04.316258+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,bubble,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:52:14.334494+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,selection,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:52:24.353692+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,insertion,Marks,1,TIMEOUT,,,,,,False,10.0,Exceeded timeout of 10 seconds
+2026-09-27T06:52:27.408429+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,merge,Marks,1,COMPLETED,2.7185921000054805,1419281,0,3337856,0.7656097412109375,True,10.0,
+2026-09-27T06:52:28.982929+00:00,100000,duplicate_heavy,data\generated\duplicate_heavy\students_100000_duplicate_heavy.csv,quick,Marks,1,COMPLETED,1.1690518999967026,1904966,751953,2255859,0.003265380859375,True,10.0,
