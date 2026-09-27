@@ -253,31 +253,6 @@ project/
 └── README.md
 ```
 
----
-
-## Team Contributions
-
-### Member 1 — Dataset & Data Generation
-Student-record schema, dataset generation, five input conditions,
-validation, reproducibility (fixed seed 42).
-
-### Member 2 — Basic Sorting Algorithms
-Bubble Sort, Selection Sort, Insertion Sort, operation counters,
-complexity documentation.
-
-### Member 3 — Efficient Sorting Algorithms
-Merge Sort, Quick Sort, operation counters, complexity documentation.
-
-### Member 4 — Benchmarking & Analysis
-Process-isolated benchmark execution, timing, comparisons, swaps/moves,
-peak memory measurement, timeout handling, result CSV, aggregate
-analysis and graphs.
-
-### Member 5 — Application & Integration
-Interactive Streamlit application, integration of all modules, final
-testing, final documentation, README, repository cleanup.
-
----
 
 ## Notes on Generated Results
 
